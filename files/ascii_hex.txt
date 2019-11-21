@@ -1,0 +1,15 @@
+
+     Decimal:                  Hexadecimal:
+
+   + 0 1 2 3 4 5 6 7 8 9       0 1 2 3 4 5 6 7 8 9 A B C D E F
+    --------------------      --------------------------------
+ 30:       ! " # $ % & '    2:   ! " # $ % & ' ( ) * + , - . /
+ 40: ( ) * + , - . / 0 1    3: 0 1 2 3 4 5 6 7 8 9 : ; < = > ?
+ 50: 2 3 4 5 6 7 8 9 : ;    4: @ A B C D E F G H I J K L M N O
+ 60: < = > ? @ A B C D E    5: P Q R S T U V W X Y Z [ \ ] ^ _
+ 70: F G H I J K L M N O    6: ` a b c d e f g h i j k l m n o
+ 80: P Q R S T U V W X Y    7: p q r s t u v w x y z { | } ~
+ 90: Z [ \ ] ^ _ ` a b c 
+100: d e f g h i j k l m 
+110: n o p q r s t u v w 
+120: x y z { | } ~       
