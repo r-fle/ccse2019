@@ -29,6 +29,6 @@ Links
 ---
 
 * If you are reading this on a projector in a classroom, or want a way to play with the code in your web browser, head here: https://repl.it/@rifle/ccse2019
-* If you want to copy the code to make changes and reuse it, make a copy from github here: https://github.com/rifle/ccse2019
+* If you want to copy the code to make changes and reuse it, make a copy from github here: https://github.com/r-fle/ccse2019
 * A website that can do lots of encoding/decoding, with simple or complicated combinations of recipes is CyberChef. It's very nifty: https://gchq.github.io/CyberChef/
 * If you want more of the later kinds of challenges, check out: https://cryptopals.com/
