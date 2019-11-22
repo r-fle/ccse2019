@@ -127,20 +127,6 @@ print("x: ", math.ceil(x), "[ceiling]" )
 print("x: ", math.floor(x), "[floor]" )
 print()
 
-# Here's a huge list of stuff yo can import: 
-# https://docs.python.org/3/library/index.html
-
-# A common one is passing arguments/parameters to your python program
-# Imagine we ran: ./level0.py 4567
-import sys
-
-# The arguments live in sys.argv, which is a 'list' 
-if len(sys.argv) > 1:
-    # We have been sent one or more arguments:
-    for argument in sys.argv:
-        print("{}".format(argument) )
-    print()
-
 # --- READING FROM A FILE ---
 
 # How do we open a file? This will look in your current folder for README.md:
@@ -157,6 +143,22 @@ from pathlib import Path
 f = Path("files/example.txt")
 content = f.read_text() # We could also do .read_bytes() if we wanted
 print(content)
+
+# --- OTHER THINGS & DOCUMENTATION
+
+# Here's a huge list of stuff you can import: 
+# https://docs.python.org/3/library/index.html
+
+# A common one is passing arguments/parameters to your python program
+# Imagine we ran: ./level0.py 4567
+import sys
+
+# The arguments live in sys.argv, which is a 'list' 
+if len(sys.argv) > 1:
+    # We have been sent one or more arguments:
+    for argument in sys.argv:
+        print("{}".format(argument) )
+    print()
 
 # If you are using python on the command line, you can
 # exit sometimes by pressing ctrl+D, or always by typing:
