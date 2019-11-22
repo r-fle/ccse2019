@@ -20,10 +20,10 @@ Levels
 
 1. ASCII, encodings. Letters into numbers. Numbers into letters.
 2. Caesar cipher: words, sentences, encryption, decryption
-3. Caeser cipher from a mysterious text file [optional]
+3. Caeser cipher from a mysterious text file *[optional]*
 4. Hex? Hex vs ascii. Binary? AND, OR, XOR?!
 5. XOR encryption: one byte? one line of hex stuff?
-6. Unknown, single byte XOR encrypted data [optional]
+6. Unknown, single byte XOR encrypted data *[optional]*
 
 Links
 ---
